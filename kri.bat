@@ -4,7 +4,7 @@ set /A SUM= num1 + num2
 echo %SUM% 
 set /A SUB=num1 - num2
 echo %sub%
-set /A MULTI=NUM1 % NUM2
+set /A MULTI=NUM1*NUM2
 ECHO %MULTI%
 SET /A DIVIDED=NUM1 / NUM2
 ECHO %DIVIDED%
