@@ -4,3 +4,5 @@ set /A sum=num1+num2
 echo %sum%
 set /A sub=num1-num2
 echo %sub%
+set /A multi=num1*num2
+echo %multi%
