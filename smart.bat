@@ -6,3 +6,5 @@ set /A sub=num1-num2
 echo %sub%
 set /A multi=num1*num2
 echo %multi%
+set /A divide=num1**num2
+echo %divide% 
