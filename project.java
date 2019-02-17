@@ -6,11 +6,11 @@ class project
    {
       int x, y, z;
  
-      #System.out.println("Enter two integers to calculate their sum");
-      #Scanner in = new Scanner(System.in);
+      //System.out.println("Enter two integers to calculate their sum");
+      //Scanner in = new Scanner(System.in);
      
-      #x = in.nextInt();
-      #y = in.nextInt();
+      //x = in.nextInt();
+      //y = in.nextInt();
       x = 5;
       y = 4 ;
       z = x + y;
