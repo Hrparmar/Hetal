@@ -13,8 +13,8 @@ class project
       //y = in.nextInt();
       x = 5;
       y = 4 ;
-      z = x + y;
+      z = x * y;
      
-      System.out.println("Sum of the integers = " + z);
+      System.out.println("Multipication of the two integers = " + z);
    }
 }
