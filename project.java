@@ -11,6 +11,8 @@ class project
      
       x = in.nextInt();
       y = in.nextInt();
+      x = 5;
+      y = 4
       z = x + y;
      
       System.out.println("Sum of the integers = " + z);
