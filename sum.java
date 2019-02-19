@@ -4,7 +4,7 @@ public class sum {
     { 
         int a = 62; 
         int b = 18; 
-        // It will return the sum of two arguments. 
-        System.out.println("The sum is =" + Integer.sum(a, b)); 
+        // It will return the difference of two arguments. 
+        System.out.println("The sub is =" - Integer.sum(a, b)); 
     } 
 } 
