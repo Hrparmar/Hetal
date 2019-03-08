@@ -1,7 +1,9 @@
-public class hello {
+public class careful {
     public static void main (String [] args){
-    System.out.println("My first project");
-        System.out.println("learning is fun");
+    int time is 10;
+    if (time > 18) {
+    System.out.println("good day");
+        System.out.println("good night");
     }
 
 }
